@@ -1,4 +1,18 @@
 baseURL = 'https://medievalistsdesign.games/'
-languageCode = 'en-us'
+
 title = 'Medievalists Design Games'
 theme = 'hermit-v2'
+
+copyright = "Thomas C. Sawyer"
+
+[params.author]
+  name = "Thomas C. Sawyer"
+  about = "i  exist"
+
+disableKinds = ["RSS"]
+
+[params]
+    homeSubtitle = "website coming soon"
+    homeSubtitlePrinter = true
+
+    footerCopyright = ' <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
