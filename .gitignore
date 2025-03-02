@@ -1,11 +1,1 @@
-public/404.html
-public/index.html
-public/index.xml
-public/sitemap.xml
-public/categories/index.html
-public/categories/index.xml
-public/css/style.min.8e39726550d0eb0606fe19ede5a0e521b8e189751abcaf985b5ae24b4da31da9.css
-public/css/style.min.0657999dd766c7c5de21ca309a7a4b17908a36f90cd80217592172111df294fb.css
-public/css/style.min.b4e7f08b232b547031c4c482789ff0a09e8a85e415ec7a7224bc6070475d79a9.css
-public/tags/index.html
-public/tags/index.xml
+node_modules

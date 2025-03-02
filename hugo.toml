@@ -1,18 +1,36 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+theme = "hugo-story"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = true
+#canonifyURLs = true
+
+# Local
+# baseURL = "/"
+publishDir = "public"
+
+# Remote
 baseURL = 'https://medievalistsdesign.games/'
+#publishDir = "//centos/sites/hugodev/hugostory/"
 
-title = 'Medievalists Design Games'
-theme = 'hermit-v2'
 
-copyright = "Thomas C. Sawyer"
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
 
-[params.author]
-  name = "Thomas C. Sawyer"
-  about = "i  exist"
+disableKinds = ["taxonomy", "section"]
+# googleAnalytics = "your-google-analytics-id"
 
-disableKinds = ["RSS"]
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
 
-[params]
-    homeSubtitle = "website coming soon"
-    homeSubtitlePrinter = true
+[Params]
 
-    footerCopyright = ' <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+[Params.social]
