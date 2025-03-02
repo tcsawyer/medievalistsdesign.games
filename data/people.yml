@@ -1,0 +1,49 @@
+####################### Spotlight ######################### 
+
+discussants:
+- title : "Spotlight"
+  content: |
+    This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  image: "images/spotlight02.jpg"
+  style: spotlight onscroll-image-fade-in style2 content-align-left image-position-center orient-right
+- title : "Spotlight"
+  content: |
+    This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  image: "images/spotlight02.jpg"
+  style: spotlight onscroll-image-fade-in style2 content-align-right image-position-center orient-left
+- title : "Spotlight"
+  content: |
+    This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  image: "images/spotlight02.jpg"
+  style: spotlight onscroll-image-fade-in style2 content-align-left image-position-center orient-right
+leaders:
+- title : "Spotlight"
+  content: |
+    This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  image: "images/spotlight02.jpg"
+  style: spotlight onscroll-image-fade-in style2 content-align-right image-position-center orient-left
+- title : "Spotlight"
+  content: |
+    This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  image: "images/spotlight02.jpg"
+  style: spotlight onscroll-image-fade-in style2 content-align-left image-position-center orient-right
+- title : "Spotlight"
+  content: |
+    This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  image: "images/spotlight02.jpg"
+  style: spotlight onscroll-image-fade-in style2 content-align-right image-position-center orient-left
+- title : "Spotlight"
+  content: |
+    This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  image: "images/spotlight02.jpg"
+  style: spotlight onscroll-image-fade-in style2 content-align-left image-position-center orient-right
+- title : "Spotlight"
+  content: |
+    This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  image: "images/spotlight02.jpg"
+  style: spotlight onscroll-image-fade-in style2 content-align-right image-position-center orient-left
+- title : "Spotlight"
+  content: |
+    This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  image: "images/spotlight02.jpg"
+  style: spotlight onscroll-image-fade-in style2 content-align-left image-position-center orient-right

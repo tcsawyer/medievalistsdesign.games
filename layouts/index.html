@@ -2,16 +2,14 @@
 
 	{{ partial "banner" site.Data.banner }}
 	{{ partial "mailchimp" . }}
-	{{ partial "spotlight" site.Data.discussants1 }}
-	{{ partial "spotlight" site.Data.discussants2 }}
-	{{ partial "spotlight" site.Data.discussants3 }}
-	{{ partial "spotlight" site.Data.leaders1 }}
-	{{ partial "spotlight" site.Data.leaders2 }}
-	{{ partial "spotlight" site.Data.leaders3 }}
-	{{ partial "spotlight" site.Data.leaders4 }}
-	{{ partial "spotlight" site.Data.leaders5 }}
+	{{ range site.Data.people.discussants }}
+		{{ partial "spotlight" . }}
+	{{ end }}
+	{{ range site.Data.people.leaders }}
+		{{ partial "spotlight" . }}
+	{{ end }}
 	{{ partial "gallery" site.Data.sponsors }}
 	{{/*  {{ partial "items" site.Data.items }}  */}}
-	{{ partial "footer" . }}
+	{{/*  {{ partial "footer" . }}  */}}
 
 {{ end }}
