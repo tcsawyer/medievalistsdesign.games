@@ -1,7 +1,16 @@
-####################### Banner #########################
-style: "banner style1 image-position-right fullscreen onload-image-fade-in onload-content-fade-right content-align-left orient-right"
-# title : "Medievalists Design Games"
-subtitle: "5-7 December 2025 | University of Chicago"
-content: |
-  Medievalists Design Games is a collaborative event created to generate prototype tabletop games for educational use and in hobbyist spaces. Relationships established at this event will facilitate productive conversation between medieval studies, critical game studies, and game design praxis. Medievalists Design Games will invite a cohort of medievalists to the Weston Game Lab at the University of Chicago for three days as an anchor event for the Year of Games programming (AY 2025-26), a campus-wide celebration of the aesthetic expressions and experimentations in agency that games afford. The Year of Games will bring together campus partners including the Regenstein Library, the SMART museum, the MADD Center, and the Logan Center for the Arts.
-image : "images/website_quickbanner.png"
+subtitle: 5-7 December 2025 | University of Chicago
+content: >
+  Medievalists Design Games is a collaborative event created to generate
+  prototype tabletop games for educational use and in hobbyist spaces.
+  Relationships established at this event will facilitate productive
+  conversation between medieval studies, critical game studies, and game design
+  praxis. Medievalists Design Games will invite a cohort of medievalists to the
+  Weston Game Lab at the University of Chicago for three days as an anchor event
+  for the Year of Games programming (AY 2025-26), a campus-wide celebration of
+  the aesthetic expressions and experimentations in agency that games afford.
+  The Year of Games will bring together campus partners including the Regenstein
+  Library, the SMART museum, the MADD Center, and the Logan Center for the Arts.
+image: /images/website_quickbanner.png
+style: >-
+  banner style1 image-position-right fullscreen onload-image-fade-in
+  onload-content-fade-right content-align-left orient-right
