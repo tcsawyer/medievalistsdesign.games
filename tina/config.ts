@@ -79,6 +79,12 @@ export default defineConfig({
             label: 'Discussants',
             name: 'discussants',
             list: true,
+            ui: {
+              itemProps: (item) => {
+                // Field values are accessed by item?.<Field name>
+                return { label: item?.title };
+              },
+            },
             fields: [
               {
                 label: "Name",
@@ -107,6 +113,12 @@ export default defineConfig({
             label: 'Leaders',
             name: 'leaders',
             list: true,
+            ui: {
+              itemProps: (item) => {
+                // Field values are accessed by item?.<Field name>
+                return { label: item?.title };
+              },
+            },
             fields: [
               {
                 label: "Name",
@@ -130,6 +142,132 @@ export default defineConfig({
               }
             ]
           },
+        ],
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+      },
+      {
+        label: 'Sponsors',
+        name: 'sponsors',
+        path: 'data',
+        match: {
+          include: 'sponsors',
+        },
+        format: 'yml',
+        fields: [
+          {
+            label: "Name",
+            name: "title",
+            type: "string",
+          },
+          {
+            label: "Enabled",
+            name: "enabled",
+            type: 'boolean'
+          },
+          {
+            label: "Description",
+            name: "content",
+            type: "rich-text",
+          },
+          {
+            label: "CSS classes",
+            name: "style",
+            type: "string",
+          },
+          {
+            type: 'object',
+            label: 'Pictures',
+            name: 'pictures',
+            list: true,
+            ui: {
+              itemProps: (item) => {
+                // Field values are accessed by item?.<Field name>
+                return { label: item?.title };
+              },
+            },
+            fields: [
+              {
+                label: "Name",
+                name: "title",
+                type: "string",
+              },
+              {
+                label: "Description",
+                name: "content",
+                type: "rich-text",
+              },
+              {
+                label: "Thumbnail",
+                name: "thumb",
+                type: "image",
+              },
+              {
+                label: "Full Image",
+                name: "image",
+                type: "image",
+              }
+            ]
+          }
+        ],
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+      },
+      {
+        label: 'Projects',
+        name: 'projects',
+        path: 'data',
+        match: {
+          include: 'projects',
+        },
+        format: 'yml',
+        fields: [
+          {
+            label: "Name",
+            name: "title",
+            type: "string",
+          },
+          {
+            label: "Enabled",
+            name: "enabled",
+            type: 'boolean'
+          },
+          {
+            label: "Description",
+            name: "content",
+            type: "rich-text",
+          },
+          {
+            label: "CSS classes",
+            name: "style",
+            type: "string",
+          },
+          {
+            type: 'object',
+            label: 'Projects',
+            name: 'items',
+            list: true,
+            fields: [
+              {
+                label: "Description",
+                name: "content",
+                type: "rich-text",
+              },
+              {
+                label: "CSS classes",
+                name: "style",
+                type: "string",
+              }
+            ]
+          }
         ],
         ui: {
           allowedActions: {

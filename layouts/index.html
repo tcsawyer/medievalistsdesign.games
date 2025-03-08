@@ -8,8 +8,12 @@
 	{{ range site.Data.people.leaders }}
 		{{ partial "spotlight" . }}
 	{{ end }}
-	{{ partial "gallery" site.Data.sponsors }}
-	{{/*  {{ partial "items" site.Data.items }}  */}}
-	{{/*  {{ partial "footer" . }}  */}}
+	{{ if site.Data.sponsors.enabled }}
+		{{ partial "gallery" site.Data.sponsors }}
+	{{ end }}
+	{{ if site.Data.projects.enabled }}
+		{{ partial "items" site.Data.projects }}
+	{{ end }}
+	{{ partial "footer" . }}
 
 {{ end }}

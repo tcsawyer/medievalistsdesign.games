@@ -8,15 +8,15 @@ theme = "hugo-story"
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
-#canonifyURLs = "true"
+relativeURLs = true
+#canonifyURLs = true
 
 # Local
-baseURL = "/"
+# baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+baseURL = 'https://medievalistsdesign.games/'
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
@@ -25,7 +25,7 @@ publishDir = "public"
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "section"]
-# googleAnalytics = "G-XXXXXXXXXX"
+# googleAnalytics = "your-google-analytics-id"
 
 ## -----------------------------------------------
 ## Site Parameters
@@ -34,5 +34,3 @@ disableKinds = ["taxonomy", "section"]
 [Params]
 
 [Params.social]
-
-[Params.asset]

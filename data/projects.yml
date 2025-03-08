@@ -1,0 +1,70 @@
+title: Projects
+enabled: false
+content: >
+  This is an <strong>Items</strong> element, and it's basically just a grid for
+  organizing items of various types. You can customize its <span
+  class="demo-controls">appearance with a number of modifiers</span>, as well as
+  assign it an optional <code>onload</code> or <code>onscroll</code> transition
+  modifier (<a href="#reference-items">details</a>).
+style: style1 medium onscroll-fade-in
+items:
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: style2 major fa-gem
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: solid style2 major fa-save
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: solid style2 major fa-chart-bar
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: solid style2 major fa-wifi
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: solid style2 major fa-cog
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: style2 major fa-paper-plane
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: solid style2 major fa-desktop
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: solid style2 major fa-sync-alt
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: solid style2 major fa-hashtag
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: solid style2 major fa-bolt
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: style2 major fa-envelope
+  - content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis,
+      cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec
+      tempor elit.
+    style: solid style2 major fa-leaf

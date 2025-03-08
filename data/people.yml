@@ -1,5 +1,5 @@
 discussants:
-  - title: Spotlight
+  - title: discussant person 1
     content: >
       This is also a <strong>Spotlight</strong> element, and it's here because
       this demo would look a bit empty with just one spotlight. Like all
@@ -7,11 +7,11 @@ discussants:
       with a number of modifiers</span>, as well as assign it an optional
       <code>onload</code> or <code>onscroll</code> transition modifier (<a
       href="#reference-spotlight">details</a>).
-    image: /images/spotlight03.jpg
+    image: /images/website_quickbanner.png
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-left
       image-position-center orient-right
-  - title: Spotlight
+  - title: discussant person 2
     content: >
       This is also a <strong>Spotlight</strong> element, and it's here because
       this demo would look a bit empty with just one spotlight. Like all
@@ -19,11 +19,11 @@ discussants:
       with a number of modifiers</span>, as well as assign it an optional
       <code>onload</code> or <code>onscroll</code> transition modifier (<a
       href="#reference-spotlight">details</a>).
-    image: images/spotlight02.jpg
+    image: /images/spotlight02.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-right
       image-position-center orient-left
-  - title: Spotlight
+  - title: discussant person 3
     content: >
       This is also a <strong>Spotlight</strong> element, and it's here because
       this demo would look a bit empty with just one spotlight. Like all
@@ -31,12 +31,12 @@ discussants:
       with a number of modifiers</span>, as well as assign it an optional
       <code>onload</code> or <code>onscroll</code> transition modifier (<a
       href="#reference-spotlight">details</a>).
-    image: images/spotlight02.jpg
+    image: /images/spotlight02.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-left
       image-position-center orient-right
 leaders:
-  - title: Spotlight
+  - title: Leader person 1
     content: >
       This is also a <strong>Spotlight</strong> element, and it's here because
       this demo would look a bit empty with just one spotlight. Like all
@@ -44,11 +44,11 @@ leaders:
       with a number of modifiers</span>, as well as assign it an optional
       <code>onload</code> or <code>onscroll</code> transition modifier (<a
       href="#reference-spotlight">details</a>).
-    image: images/spotlight02.jpg
+    image: /images/spotlight02.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-right
       image-position-center orient-left
-  - title: Spotlight
+  - title: Leader person 2
     content: >
       This is also a <strong>Spotlight</strong> element, and it's here because
       this demo would look a bit empty with just one spotlight. Like all
@@ -56,11 +56,11 @@ leaders:
       with a number of modifiers</span>, as well as assign it an optional
       <code>onload</code> or <code>onscroll</code> transition modifier (<a
       href="#reference-spotlight">details</a>).
-    image: images/spotlight02.jpg
+    image: /images/spotlight02.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-left
       image-position-center orient-right
-  - title: Spotlight
+  - title: Leader person 3
     content: >
       This is also a <strong>Spotlight</strong> element, and it's here because
       this demo would look a bit empty with just one spotlight. Like all
@@ -68,11 +68,11 @@ leaders:
       with a number of modifiers</span>, as well as assign it an optional
       <code>onload</code> or <code>onscroll</code> transition modifier (<a
       href="#reference-spotlight">details</a>).
-    image: images/spotlight02.jpg
+    image: /images/spotlight02.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-right
       image-position-center orient-left
-  - title: Spotlight
+  - title: Leader person 4
     content: >
       This is also a <strong>Spotlight</strong> element, and it's here because
       this demo would look a bit empty with just one spotlight. Like all
@@ -80,11 +80,11 @@ leaders:
       with a number of modifiers</span>, as well as assign it an optional
       <code>onload</code> or <code>onscroll</code> transition modifier (<a
       href="#reference-spotlight">details</a>).
-    image: images/spotlight02.jpg
+    image: /images/spotlight02.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-left
       image-position-center orient-right
-  - title: Spotlight
+  - title: Leader person 5
     content: >
       This is also a <strong>Spotlight</strong> element, and it's here because
       this demo would look a bit empty with just one spotlight. Like all
@@ -92,11 +92,11 @@ leaders:
       with a number of modifiers</span>, as well as assign it an optional
       <code>onload</code> or <code>onscroll</code> transition modifier (<a
       href="#reference-spotlight">details</a>).
-    image: images/spotlight02.jpg
+    image: /images/spotlight02.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-right
       image-position-center orient-left
-  - title: Spotlight
+  - title: Leader person 6
     content: >
       This is also a <strong>Spotlight</strong> element, and it's here because
       this demo would look a bit empty with just one spotlight. Like all
@@ -104,7 +104,7 @@ leaders:
       with a number of modifiers</span>, as well as assign it an optional
       <code>onload</code> or <code>onscroll</code> transition modifier (<a
       href="#reference-spotlight">details</a>).
-    image: images/spotlight02.jpg
+    image: /images/spotlight02.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-left
       image-position-center orient-right

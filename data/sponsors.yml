@@ -1,16 +1,20 @@
-title: "Sponsors"
-style: "style2 medium lightbox onscroll-fade-in"
-content: |
-  This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
+title: Sponsors
+enabled: true
+content: >
+  This is a <strong>Gallery</strong> element. It can behave as a lightbox (when
+  given the <code>lightbox</code> class), and you can customize its <span
+  class="demo-controls">appearance with a number of modifiers</span>, as well as
+  assign it an optional <code>onload</code> or <code>onscroll</code> transition
+  modifier (<a href="#reference-gallery">details</a>).
+style: style2 medium lightbox onscroll-fade-in
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/01.jpg"
-    thumb: "images/gallery/thumbs/01.jpg"
-    button: "Details"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/02.jpg"
-    thumb: "images/gallery/thumbs/02.jpg"
-    button: "Details"
+  - title: building
+    content: |
+      Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.
+    thumb: /images/gallery/thumbs/01.jpg
+    image: /images/gallery/fulls/01.jpg
+  - title: tatoo
+    content: |
+      Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.
+    thumb: /images/gallery/thumbs/02.jpg
+    image: /images/gallery/fulls/02.jpg
