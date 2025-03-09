@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-theme = "hugo-story"
+title = "Medievalists Design games"
 
 ## -----------------------------------------------
 ## Publish
@@ -12,25 +12,36 @@ relativeURLs = true
 #canonifyURLs = true
 
 # Local
-# baseURL = "/"
+baseURL = "http:/"
 publishDir = "public"
 
 # Remote
-baseURL = 'https://medievalistsdesign.games/'
+# baseURL = 'https://medievalistsdesign.games/'
 #publishDir = "//centos/sites/hugodev/hugostory/"
-
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "section"]
-# googleAnalytics = "your-google-analytics-id"
+# googleAnalytics = "G-XXXXXXXXXX"
 
 ## -----------------------------------------------
 ## Site Parameters
 ## -----------------------------------------------
 
 [Params]
+  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  logo = "images/banner.jpg"
+  favicon = true
+  location = "University of Chicago address to the place"
 
 [Params.social]
+  twitter = "https://twitter.com/caressofsteel_"
+  email = "caressofsteel@protonmail.com"
+  instagram = "https://instagram.com"
+  telegram = "https://telegram.org"
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]
