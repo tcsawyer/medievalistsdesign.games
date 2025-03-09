@@ -12,13 +12,8 @@ relativeURLs = true
 #canonifyURLs = true
 
 # Local
-# baseURL = "/"
+baseURL = "/"
 publishDir = "public"
-
-# Remote
-baseURL = 'https://medievalistsdesign.games/'
-#publishDir = "//centos/sites/hugodev/hugostory/"
-
 
 ## -----------------------------------------------
 ## Hugo Built-in Features

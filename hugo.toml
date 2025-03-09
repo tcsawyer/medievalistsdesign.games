@@ -12,12 +12,8 @@ relativeURLs = true
 #canonifyURLs = true
 
 # Local
-baseURL = "http:/"
+baseURL = "/"
 publishDir = "public"
-
-# Remote
-# baseURL = 'https://medievalistsdesign.games/'
-#publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
@@ -37,10 +33,10 @@ disableKinds = ["taxonomy", "section"]
   location = "University of Chicago address to the place"
 
 [Params.social]
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
-  instagram = "https://instagram.com"
-  telegram = "https://telegram.org"
+  # twitter = "https://twitter.com/caressofsteel_"
+  # email = "caressofsteel@protonmail.com"
+  # instagram = "https://instagram.com"
+  # telegram = "https://telegram.org"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
