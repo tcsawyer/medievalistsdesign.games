@@ -1,20 +1,36 @@
 title: Sponsors
 enabled: true
 content: >
-  This is a <strong>Gallery</strong> element. It can behave as a lightbox (when
-  given the <code>lightbox</code> class), and you can customize its <span
-  class="demo-controls">appearance with a number of modifiers</span>, as well as
-  assign it an optional <code>onload</code> or <code>onscroll</code> transition
-  modifier (<a href="#reference-gallery">details</a>).
+  <p>We are grateful to our generous sponsors for supporting Medievalists Design games: the Medieval Academy of America, the New York Medieval Society, the University of Chicago Libraries, the Franke Institute at the University of Chicago, and Stonemaier Games.</p> 
+  
+  <p>Organizers are currently seeking additional sponsors to reduce travel costs for participating medievalists who may not have access to designated funding. If your institution, society, or corporation can offer financial support, please email <strong>tsawyer at uchicago dot edu</strong>.</p>
 style: style2 medium lightbox onscroll-fade-in
 pictures:
-  - title: building
+  - title: Medieval Academy of America
+    thumb: /images/logos/MAA_logo.png
+    image: /images/logos/MAA_logo.png
+  - title: New York Medieval Society
     content: |
       Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.
-    thumb: /images/gallery/thumbs/01.jpg
-    image: /images/gallery/fulls/01.jpg
-  - title: tatoo
+    thumb: /images/logos/MAA Centennial Logo.jpg
+    image: /images/logos/MAA Centennial Logo.jpg
+  - title: Stonemaier Games
     content: |
       Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.
     thumb: /images/gallery/thumbs/02.jpg
     image: /images/gallery/fulls/02.jpg
+  - title: University of Chicago Libraries
+    content: |
+      Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.
+    thumb: /images/gallery/thumbs/01.jpg
+    image: /images/gallery/fulls/01.jpg
+  - title: Franke Institute
+    content: |
+      Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.
+    thumb: /images/gallery/thumbs/02.jpg
+    image: /images/gallery/fulls/02.jpg
+  - title: Weston Game Lab
+    content: |
+      Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.
+    thumb: /images/logos/MAA Centennial Logo.jpg
+    image: /images/logos/MAA Centennial Logo.jpg

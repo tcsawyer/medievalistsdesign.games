@@ -1,110 +1,85 @@
 discussants:
-  - title: discussant person 1
+  - title: Cole Wehrle
     content: >
-      This is also a <strong>Spotlight</strong> element, and it's here because
-      this demo would look a bit empty with just one spotlight. Like all
-      spotlights, you can customize its <span class="demo-controls">appearance
-      with a number of modifiers</span>, as well as assign it an optional
-      <code>onload</code> or <code>onscroll</code> transition modifier (<a
-      href="#reference-spotlight">details</a>).
-    image: /images/website_quickbanner.png
+     <p>Creative Director at <strong>Leder Games</strong> and co-founder of <strong>Wehrlegig Games</strong>, Cole’s designs test the limits of emergent narrative in tabletop games and explore the affordances of play for understanding difficult historical pasts. Cole joins us as <em>discussant</em> and <em>workshop leader</em>.</p> 
+    image: /images/people_pics/Cole-Staff-Photo.png
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-left
       image-position-center orient-right
-  - title: discussant person 2
+  - title: Mary Flanagan
     content: >
-      This is also a <strong>Spotlight</strong> element, and it's here because
-      this demo would look a bit empty with just one spotlight. Like all
-      spotlights, you can customize its <span class="demo-controls">appearance
-      with a number of modifiers</span>, as well as assign it an optional
-      <code>onload</code> or <code>onscroll</code> transition modifier (<a
-      href="#reference-spotlight">details</a>).
-    image: /images/spotlight02.jpg
+      <p>Professor of Film and Media Studies at <strong>Dartmouth College</strong> and Director at <strong>Tiltfactor Research Laboratory</strong>, Mary’s work in critical play extends into the virtual, the analog, the comparative, and the communal. Designer, author, and critic, she shapes how we understand the intersecting affordances of agency and habitation in gaming spaces. Mary joins us as <em>discussant</em> and <em>workshop leader</em>.</p>.
+    image: /images/people_pics/mary_flanagan_dartmouth.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-right
       image-position-center orient-left
-  - title: discussant person 3
+  - title: Patrick Jagoda
     content: >
-      This is also a <strong>Spotlight</strong> element, and it's here because
-      this demo would look a bit empty with just one spotlight. Like all
-      spotlights, you can customize its <span class="demo-controls">appearance
-      with a number of modifiers</span>, as well as assign it an optional
-      <code>onload</code> or <code>onscroll</code> transition modifier (<a
-      href="#reference-spotlight">details</a>).
-    image: /images/spotlight02.jpg
+      <p>Chair of Cinema and Media Studies and Professor of English Language and Literature at the <strong>University of Chicago</strong>, Patrick is a leading author in critical game studies, transmedia designer of ludic experiences, and celebrated educator. His work traces the ways games experiment with the experience of reality itself. Patrick joins us as <em>discussant</em>.
+    image: /images/people_pics/Patrick Jagoda 2017.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-left
       image-position-center orient-right
 leaders:
-  - title: Leader person 1
+  - title: Ashlyn Sparrow
     content: >
-      This is also a <strong>Spotlight</strong> element, and it's here because
-      this demo would look a bit empty with just one spotlight. Like all
-      spotlights, you can customize its <span class="demo-controls">appearance
-      with a number of modifiers</span>, as well as assign it an optional
-      <code>onload</code> or <code>onscroll</code> transition modifier (<a
-      href="#reference-spotlight">details</a>).
-    image: /images/spotlight02.jpg
+      <p>Senior Research Associate in Cinema and Media Studies at the <strong>University of Chicago</strong> and independent game designer, Ash thinks games on their own terms as works capable of expression in their own chosen media. Her games offer opportunities for expression, interaction, and the formation and interrogation of present communities. Ash joins us as <em>workshop leader</em>.</p>
+    image: /images/people_pics/Ash_datascience.webp
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-right
       image-position-center orient-left
-  - title: Leader person 2
+  - title: This Could Be You
     content: >
-      This is also a <strong>Spotlight</strong> element, and it's here because
-      this demo would look a bit empty with just one spotlight. Like all
-      spotlights, you can customize its <span class="demo-controls">appearance
-      with a number of modifiers</span>, as well as assign it an optional
-      <code>onload</code> or <code>onscroll</code> transition modifier (<a
-      href="#reference-spotlight">details</a>).
+      <p>We are actively seeking further workshop leaders at this time. If you are in the Chicago areas (or want to be, this December) and have passion and experience in game design, please email the organizer at <strong>tsawyer at uchicago dot edu</strong>.</p>
     image: /images/spotlight02.jpg
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-left
       image-position-center orient-right
-  - title: Leader person 3
-    content: >
-      This is also a <strong>Spotlight</strong> element, and it's here because
-      this demo would look a bit empty with just one spotlight. Like all
-      spotlights, you can customize its <span class="demo-controls">appearance
-      with a number of modifiers</span>, as well as assign it an optional
-      <code>onload</code> or <code>onscroll</code> transition modifier (<a
-      href="#reference-spotlight">details</a>).
-    image: /images/spotlight02.jpg
-    style: >-
-      spotlight onscroll-image-fade-in style2 content-align-right
-      image-position-center orient-left
-  - title: Leader person 4
-    content: >
-      This is also a <strong>Spotlight</strong> element, and it's here because
-      this demo would look a bit empty with just one spotlight. Like all
-      spotlights, you can customize its <span class="demo-controls">appearance
-      with a number of modifiers</span>, as well as assign it an optional
-      <code>onload</code> or <code>onscroll</code> transition modifier (<a
-      href="#reference-spotlight">details</a>).
-    image: /images/spotlight02.jpg
-    style: >-
-      spotlight onscroll-image-fade-in style2 content-align-left
-      image-position-center orient-right
-  - title: Leader person 5
-    content: >
-      This is also a <strong>Spotlight</strong> element, and it's here because
-      this demo would look a bit empty with just one spotlight. Like all
-      spotlights, you can customize its <span class="demo-controls">appearance
-      with a number of modifiers</span>, as well as assign it an optional
-      <code>onload</code> or <code>onscroll</code> transition modifier (<a
-      href="#reference-spotlight">details</a>).
-    image: /images/spotlight02.jpg
-    style: >-
-      spotlight onscroll-image-fade-in style2 content-align-right
-      image-position-center orient-left
-  - title: Leader person 6
-    content: >
-      This is also a <strong>Spotlight</strong> element, and it's here because
-      this demo would look a bit empty with just one spotlight. Like all
-      spotlights, you can customize its <span class="demo-controls">appearance
-      with a number of modifiers</span>, as well as assign it an optional
-      <code>onload</code> or <code>onscroll</code> transition modifier (<a
-      href="#reference-spotlight">details</a>).
-    image: /images/spotlight02.jpg
-    style: >-
-      spotlight onscroll-image-fade-in style2 content-align-left
-      image-position-center orient-right
+  # - title: Leader person 3
+  #   content: >
+  #     This is also a <strong>Spotlight</strong> element, and it's here because
+  #     this demo would look a bit empty with just one spotlight. Like all
+  #     spotlights, you can customize its <span class="demo-controls">appearance
+  #     with a number of modifiers</span>, as well as assign it an optional
+  #     <code>onload</code> or <code>onscroll</code> transition modifier (<a
+  #     href="#reference-spotlight">details</a>).
+  #   image: /images/spotlight02.jpg
+  #   style: >-
+  #     spotlight onscroll-image-fade-in style2 content-align-right
+  #     image-position-center orient-left
+  # - title: Leader person 4
+  #   content: >
+  #     This is also a <strong>Spotlight</strong> element, and it's here because
+  #     this demo would look a bit empty with just one spotlight. Like all
+  #     spotlights, you can customize its <span class="demo-controls">appearance
+  #     with a number of modifiers</span>, as well as assign it an optional
+  #     <code>onload</code> or <code>onscroll</code> transition modifier (<a
+  #     href="#reference-spotlight">details</a>).
+  #   image: /images/spotlight02.jpg
+  #   style: >-
+  #     spotlight onscroll-image-fade-in style2 content-align-left
+  #     image-position-center orient-right
+  # - title: Leader person 5
+  #   content: >
+  #     This is also a <strong>Spotlight</strong> element, and it's here because
+  #     this demo would look a bit empty with just one spotlight. Like all
+  #     spotlights, you can customize its <span class="demo-controls">appearance
+  #     with a number of modifiers</span>, as well as assign it an optional
+  #     <code>onload</code> or <code>onscroll</code> transition modifier (<a
+  #     href="#reference-spotlight">details</a>).
+  #   image: /images/spotlight02.jpg
+  #   style: >-
+  #     spotlight onscroll-image-fade-in style2 content-align-right
+  #     image-position-center orient-left
+  # - title: Leader person 6
+  #   content: >
+  #     This is also a <strong>Spotlight</strong> element, and it's here because
+  #     this demo would look a bit empty with just one spotlight. Like all
+  #     spotlights, you can customize its <span class="demo-controls">appearance
+  #     with a number of modifiers</span>, as well as assign it an optional
+  #     <code>onload</code> or <code>onscroll</code> transition modifier (<a
+  #     href="#reference-spotlight">details</a>).
+  #   image: /images/spotlight02.jpg
+  #   style: >-
+  #     spotlight onscroll-image-fade-in style2 content-align-left
+  #     image-position-center orient-right
