@@ -1,7 +1,10 @@
 discussants:
+  - title: Speakers
+    style: >-
+      spotlight style2 content-align-center
   - title: Cole Wehrle
     content: >
-     <p>Creative Director at <strong>Leder Games</strong> and co-founder of <strong>Wehrlegig Games</strong>, Cole’s designs test the limits of emergent narrative in tabletop games and explore the affordances of play for understanding difficult historical pasts. Cole joins us as <em>discussant</em> and <em>workshop leader</em>.</p> 
+      <p>Creative Director at <strong>Leder Games</strong> and co-founder of <strong>Wehrlegig Games</strong>, Cole’s designs test the limits of emergent narrative in tabletop games and explore the affordances of play for understanding difficult historical pasts. Cole joins us as <em>discussant</em> and <em>workshop leader</em>.</p> 
     image: /images/people_pics/Cole-Staff-Photo.png
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-left
@@ -21,6 +24,9 @@ discussants:
       spotlight onscroll-image-fade-in style2 content-align-left
       image-position-center orient-right
 leaders:
+  # - title: Leaders
+  #   style: >-
+  #     spotlight style2 content-align-center
   - title: Ashlyn Sparrow
     content: >
       <p>Senior Research Associate in Cinema and Media Studies at the <strong>University of Chicago</strong> and independent game designer, Ash thinks games on their own terms as works capable of expression in their own chosen media. Her games offer opportunities for expression, interaction, and the formation and interrogation of present communities. Ash joins us as <em>workshop leader</em>.</p>

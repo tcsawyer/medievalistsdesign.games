@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 	{{ partial "banner" site.Data.banner }}
+	{{ partial "banner" site.Data.info }}
 	
 	{{ range site.Data.people.discussants }}
 		{{ partial "spotlight" . }}
