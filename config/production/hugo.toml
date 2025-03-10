@@ -1,0 +1,9 @@
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = true
+
+# Remote
+baseURL = 'https://medievalistsdesign.games/'
+publishDir = "public"

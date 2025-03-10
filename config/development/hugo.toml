@@ -1,0 +1,10 @@
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = true
+#canonifyURLs = "true"
+
+# Local
+baseURL = "/"
+publishDir = "public"
