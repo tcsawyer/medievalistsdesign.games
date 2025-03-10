@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Medievalists Design games"
+title = "Medievalists Design Games"
 
 ## -----------------------------------------------
 ## Publish
@@ -28,9 +28,9 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
   description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
-  logo = "images/banner.jpg"
+  logo = "images/Rook–Builder Arrangement.png"
   favicon = true
-  location = "University of Chicago address to the place"
+  location = "University of Chicago"
 
 [Params.social]
   # twitter = "https://twitter.com/caressofsteel_"
