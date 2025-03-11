@@ -6,26 +6,26 @@ content: >
   <p>Organizers are currently seeking additional sponsors to reduce travel costs for participating medievalists who may not have access to designated funding. If your institution, society, or corporation can offer financial support, please email <strong>tsawyer at uchicago dot edu</strong>.</p>
 style: style2 medium lightbox onscroll-fade-in
 pictures:
-  - title: Medieval Academy of America
+  - button: Medieval Academy of America
     thumb: /images/logos/MA-logo-color-textless.png
     image: /images/logos/MA-logo-color-textless.png
-  - title: New York Medieval Society
+  - button: New York Medieval Society
     content: |
     thumb: /images/logos/NYMS-logo.png
     image: /images/logos/NYMS-logo.png
-  - title: Stonemaier Games
+  - button: Stonemaier Games
     content: |
     thumb: /images/logos/Stonemaier-logo-color.png
     image: /images/logos/Stonemaier-logo-color.png
-  - title: University of Chicago Libraries
+  - button: University of Chicago Libraries
     content: |
     thumb: /images/logos/UCLib-logo-color.png
     image: /images/logos/UCLib-logo-color.png
-  - title: Franke Institute
+  - button: Franke Institute
     content: |
     thumb: /images/logos/Franke-Institute-logo-color-vertical.png
     image: /images/logos/Franke-Institute-logo-color-vertical.png
-  - title: Weston Game Lab
+  - button: Weston Game Lab
     content: |
     thumb: /images/logos/WGL-logo-color.png
     image: /images/logos/WGL-logo-color.png
