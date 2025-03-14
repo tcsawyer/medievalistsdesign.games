@@ -1,18 +1,43 @@
-baseURL = 'https://medievalistsdesign.games/'
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
 
-title = 'Medievalists Design Games'
-theme = 'hermit-v2'
+title = "Medievalists Design Games"
 
-copyright = "Thomas C. Sawyer"
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
 
-[params.author]
-  name = "Thomas C. Sawyer"
-  about = "i  exist"
+relativeURLs = true
+#canonifyURLs = true
 
-disableKinds = ["RSS"]
+# Local
+baseURL = "/"
+publishDir = "public"
 
-[params]
-    homeSubtitle = "website coming soon"
-    homeSubtitlePrinter = true
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
 
-    footerCopyright = ' <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+disableKinds = ["taxonomy", "section"]
+# googleAnalytics = "G-XXXXXXXXXX"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  logo = "images/Rook–Builder Arrangement.png"
+  favicon = true
+  location = "University of Chicago"
+
+[Params.social]
+  # twitter = "https://twitter.com/caressofsteel_"
+  # email = "caressofsteel@protonmail.com"
+  # instagram = "https://instagram.com"
+  # telegram = "https://telegram.org"
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]
