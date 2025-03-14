@@ -6,4 +6,4 @@ content: >
   If you would like to participate, or if you are interested in hearing updates about the event, please subscribe to the mailing list above or send an email to <strong>tsawyer at uchicago dot edu</strong>.
 mailchimp: false
 style: >-
-  banner onload-content-fade-right style2 fullscreen orient-center content-align-left
+  banner onload-content-fade-right style2 orient-center content-align-left
