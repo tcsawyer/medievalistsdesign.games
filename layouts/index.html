@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "banner" site.Data.info }}
+	
+	{{ range site.Data.people.discussants }}
+		{{ partial "spotlight" . }}
+	{{ end }}
+	{{ range site.Data.people.leaders }}
+		{{ partial "spotlight" . }}
+	{{ end }}
+	{{ if site.Data.sponsors.enabled }}
+		{{ partial "gallery" site.Data.sponsors }}
+	{{ end }}
+	{{ if site.Data.projects.enabled }}
+		{{ partial "items" site.Data.projects }}
+	{{ end }}
+	{{ partial "footer" . }}
+
+{{ end }}

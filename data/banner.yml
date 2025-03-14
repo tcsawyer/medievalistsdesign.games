@@ -1,0 +1,11 @@
+title: University of Chicago
+# subtitle: 5-7 December 2025 <br> Weston Game Lab | Franke Institute
+subtitle: 5-7 December 2025 | Weston Game Lab 
+content: >
+  <b>Medievalists Design Games:</b> Experiments in game design for tabletops in the classroom and beyond.
+
+image: /images/MDG-Banner_1400x900.png
+mailchimp: true
+style: >-
+  banner style1 image-position-center fullscreen onload-image-fade-in
+  onload-content-fade-right content-align-left orient-right
