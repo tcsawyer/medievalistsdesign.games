@@ -1,11 +1,13 @@
-title : "Items"
+title : "Organizers"
+enabled: false
 content: |
+  
   This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "One"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "Thomas C. Sawyer"
+    content : Lecturer in Writing at the <strong>University of Chicago</strong>, Tom is a medievalist by training and board game designer by passion. He aims in his scholarship and his  designs alike to represent the complexities of medieval cultures in terms accessible to contemporary thought. Tom serves as <em>organizer</em> of Medievalists Design Games and <em>supporter</em> of all participants.
     style : "style2 major fa-gem"
 
   # feature item loop

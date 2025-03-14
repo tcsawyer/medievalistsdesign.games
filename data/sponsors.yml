@@ -1,7 +1,7 @@
 title: Sponsors
 enabled: true
 content: >
-  <p>We are grateful to our generous sponsors for supporting Medievalists Design games: the Medieval Academy of America, the New York Medieval Society, the University of Chicago Libraries, the Franke Institute at the University of Chicago, and Stonemaier Games.</p> 
+  <p>We are grateful to our generous sponsors for supporting Medievalists Design games: the Medieval Academy of America, the New York Medieval Society, the University of Chicago Libraries, Stonemaier Games, and the Weston Game Lab at the University of Chicago.</p> 
   
   <p>Organizers are currently seeking additional sponsors to reduce travel costs for participating medievalists who may not have access to designated funding. If your institution, society, or corporation can offer financial support, please email <strong>tsawyer at uchicago dot edu</strong>.</p>
 style: style2 medium lightbox onscroll-fade-in
@@ -28,11 +28,11 @@ pictures:
     content: |
     thumb: /images/logos/UCLib-logo-color.png
     image: /images/logos/UCLib-logo-color.png
-  - button:
-      label: Franke Institute
-    content: |
-    thumb: /images/logos/Franke-Institute-logo-color-vertical.png
-    image: /images/logos/Franke-Institute-logo-color-vertical.png
+  # - button:
+  #     label: Franke Institute
+  #   content: |
+  #   thumb: /images/logos/Franke-Institute-logo-color-vertical.png
+  #   image: /images/logos/Franke-Institute-logo-color-vertical.png
   - button:
       label: Weston Game Lab
     content: |
