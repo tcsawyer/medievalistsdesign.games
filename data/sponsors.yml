@@ -7,11 +7,13 @@ content: >
 style: style2 medium lightbox onscroll-fade-in
 pictures:
   - button:
+      link: https://www.medievalacademy.org/
       label: Medieval Academy of America
+    content: |
     thumb: /images/logos/MA-logo-color-textless.png
     image: /images/logos/MA-logo-color-textless.png
   - button:
-      link: /
+      link: https://nymedieval.org/
       label: New York Medieval Society
     content: |
     thumb: /images/logos/NYMS-logo.png
@@ -29,11 +31,13 @@ pictures:
     thumb: /images/logos/UCLib-logo-color.png
     image: /images/logos/UCLib-logo-color.png
   - button:
+      link: https://franke.uchicago.edu/
       label: Franke Institute
     content: |
     thumb: /images/logos/Franke-Institute-logo-color-vertical.png
     image: /images/logos/Franke-Institute-logo-color-vertical.png
   - button:
+      link: https://www.logancenter.uchicago.edu/mediaartsdesign/wgl
       label: Weston Game Lab
     content: |
     thumb: /images/logos/WGL-logo-color.png
