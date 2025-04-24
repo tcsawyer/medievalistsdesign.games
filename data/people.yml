@@ -34,20 +34,27 @@ leaders:
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-right
       image-position-center orient-left
+  - title: Ben Rosset
+    content: >
+      <p>Ben is an award-winning board game designer with over 20 published titles to his credit. Ben models real-world systems in the games he designs. Topics of his games include making cheese, running a brewery, the invention of the airplane, searching for new planets, and building cities. From 2015-2025 he was a Sr. Project Manager and then HR Director at Panda Game Manufacturing, and he is currently the COO of Bamboo Design Studio. He also founded and directed a board game convention in Washington, DC, and serves as a mentor to new designers</em>.</p>
+    image: /images/people_pics/ben_rosset.png
+    style: >-
+      spotlight onscroll-image-fade-in style2 content-align-left
+      image-position-center orient-right
   - title: Thomas C. Sawyer
     content: >
       Lecturer in Writing at the <strong>University of Chicago</strong>, Tom is a medievalist by training and board game designer by passion. He aims in his scholarship and his game designs alike to represent the complexities of medieval cultures in terms accessible to contemporary thought. Tom serves as <em>organizer</em> of Medievalists Design Games and <em>earnest supporter</em> of all participants.
     image: /images/people_pics/tom_self_square.png
     style: >-
-      spotlight onscroll-image-fade-in style2 content-align-left
-      image-position-center orient-right
+      spotlight onscroll-image-fade-in style2 content-align-right
+      image-position-center orient-left
   - title: And More!
     content: >
       <p>We are actively seeking further workshop leaders at this time. If you are in the Chicago area (or want to be, this December) and have passion and experience in game design, please email <strong>tsawyer at uchicago dot edu</strong>.</p>
     image: /images/people_pics/anonymous_designer_1.png
     style: >-
-      spotlight onscroll-image-fade-in style2 content-align-right
-      image-position-center orient-left
+      spotlight onscroll-image-fade-in style2 content-align-left
+      image-position-center orient-right
   # - title: Leader person 3
   #   content: >
   #     This is also a <strong>Spotlight</strong> element, and it's here because
