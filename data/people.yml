@@ -48,20 +48,21 @@ leaders:
     style: >-
       spotlight onscroll-image-fade-in style2 content-align-right
       image-position-center orient-left
+  - title: Yoni Goldstein
+    content: >
+      Yoni Goldstein has been working in transmedia arts since the early aughts. His first game design, Chicago '68, was a finalist at the Centre Ludique de Boulogne-Billancourt and his second, The Nights of King Ludd, was a finalist for the Cardboard Edison Award in 2023. In 2024, Yoni was profiled in the Chicago Sun Times with Chicago ‘68 and was featured in the online magazine, Polygon. As a filmmaker, Yoni was selected as an Independent Film Projects documentary fellow in 2018, and has resided at the Alice Kaplan Institute at Northwestern, the Institute for Advanced Study at the Central European University, and the Wexner Center for the Arts. His latest efforts as Director of Photography is showcased in Demon Mineral, an award-winning documentary about the baleful legacy of uranium mining on the Navajo Nation, which premiered at DokFest München (World) and Mill Valley Documentary Film Festival (USA), and won the jury award at Slamdance in 2024.
+    image: /images/people_pics/Y_Goldstein_photo.jpeg
+    style: >-
+      spotlight onscroll-image-fade-in style2 content-align-left
+      image-position-center orient-right
   - title: Thomas C. Sawyer
     content: >
       Lecturer in Writing at the <strong>University of Chicago</strong>, Tom is a medievalist by training and board game designer by passion. He aims in his scholarship and his game designs alike to represent the complexities of medieval cultures in terms accessible to contemporary thought. Tom serves as <em>organizer</em> of Medievalists Design Games and <em>earnest supporter</em> of all participants.
     image: /images/people_pics/tom_self_square.png
     style: >-
-      spotlight onscroll-image-fade-in style2 content-align-left
-      image-position-center orient-right
-  - title: And More!
-    content: >
-      <p>We are actively seeking further workshop leaders at this time. If you are in the Chicago area (or want to be, this December) and have passion and experience in game design, please email <strong>tsawyer at uchicago dot edu</strong>.</p>
-    image: /images/people_pics/anonymous_designer_1.png
-    style: >-
       spotlight onscroll-image-fade-in style2 content-align-right
       image-position-center orient-left
+ 
   # - title: Leader person 3
   #   content: >
   #     This is also a <strong>Spotlight</strong> element, and it's here because
